@@ -1,0 +1,1351 @@
+@font-face {
+    font-family: "Parastoo";
+    src: url(../font/parastoo-font-v1.0.0-alpha5/), url(../font/parastoo-font-v1.0.0-alpha5/web/Parastoo.woff) format("woff"), url(../font/parastoo-font-v1.0.0-alpha5/web/Parastoo.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Tanha";
+    src: url(../font/tanha-font-v0.9/Tanha.eot), url(../font/tanha-font-v0.9/Tanha.woff) format("woff"), url(../font/tanha-font-v0.9/Tanha.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Arshia";
+    src: url(../font/arshia/Far.Arshia.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Vazir";
+    src: url(../font/vazir-font-v18.0.0/Vazir-Bold.eot), url(../font/vazir-font-v18.0.0/Vazir-Bold.woff) format("woff"), url(../font/vazir-font-v18.0.0/Vazir-Medium.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Shabnam";
+    src: url(../font/shabnam-font-v2.4.0/Shabnam-Bold.eot), url(../font/shabnam-font-v2.4.0/Shabnam.woff) format("woff"), url(../font/shabnam-font-v2.4.0/Shabnam.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Afsoon";
+    src: url(../font/Afsoon/pixelboy-Afsoon.eot), url(../font/Afsoon/pixelboy-Afsoon.woff) format("woff"), url(../font/Afsoon/pixelboy-Afsoon.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Nazanin";
+    src: url(../font/nazanin.otf), format("otf");
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Fonjo";
+    src: url(../font/Fontjo/Far.Dast\ Nevis.otf), format("otf");
+    font-style: normal;
+}
+
+body {
+    background-color: #fffefe;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.pb-5 {
+    padding-bottom: 3rem !important;
+}
+
+.bgblack {
+    background-color: #000;
+}
+
+.m-b-t-4 {
+    margin-top: 3rem;
+    margin-bottom: 1.8rem;
+}
+
+.margin-tp {
+    margin-top: 6rem;
+}
+
+.sandwich-body {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+}
+
+.sandwich-body2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.margin-5 {
+    margin-top: 15rem;
+}
+
+.padding-l-t {
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
+
+.pt-8 {
+    padding-top: 7.5rem !important;
+}
+
+.p-3 {
+    padding: 3rem !important;
+}
+
+.mr-4 {
+    margin-top: 8rem !important;
+    margin-bottom: 8rem !important;
+}
+
+.border-radius-top-left {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.border-radius-top-left2 {
+    border-top-right-radius: 10 px;
+    border-bottom-right-radius: 10 px;
+}
+
+.bgsandwiches {
+    box-shadow: 7px 7px 6px #d2d2d2;
+    background-color: #fff;
+}
+
+.border-bottom-radius {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.border-bottom-radius2 {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: none!important;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.card-span {
+    -webkit-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+    border: 0;
+}
+
+.mb-3 {
+    margin-bottom: 1rem !important;
+}
+
+.shadow-lg {
+    -webkit-box-shadow: 0 1rem 4rem rgb(0 0 0 / 18%) !important;
+    box-shadow: 0 1rem 4rem rgb(0 0 0 / 18%) !important;
+}
+
+.bggrey {
+    color: #BDBDBD;
+    padding-left: 1rem;
+}
+
+body {
+    padding-top: 80px;
+    background-color: #faf8f8;
+}
+
+.max-width {
+    max-width: 100%;
+}
+
+.pd-right-0 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.ordersbg {
+    background: -webkit-gradient( linear, left top, left bottom, color-stop(-42.47%, rgba(255, 206, 103, 0.22)), to(rgba(253, 237, 202, 0)));
+}
+
+.discount-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.font-family-tanha {
+    font-family: "Tanha";
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
+
+.margin-50 {
+    margin-top: 15rem;
+}
+
+.flexfunction {
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.padding-0 {
+    padding: 0;
+}
+
+.flexBetween {
+    display: flex;
+    justify-content: center;
+}
+
+.bgyellowcolor {
+    background-color: #ffb30e;
+}
+
+.directionrtl {
+    direction: rtl;
+}
+
+.directionltr {
+    direction: ltr !important;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.h-100 {
+    height: 100%!important;
+    max-height: 100%!important;
+}
+
+.margin-20 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.margintop {
+    margin-top: 10px;
+}
+
+.flex {
+    display: flex;
+}
+
+.padding-8 {
+    padding-top: 7.5rem !important;
+    padding-bottom: 7.5rem !important;
+}
+
+.bgwhite {
+    background-color: #fff;
+    box-shadow: 4px 5px 8px #f2efef;
+}
+
+.whitebackground {
+    background-color: #fff;
+}
+
+.lightorangecolor {
+    color: #ffb30e;
+    font-family: "Parastoo";
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+
+.navicon {
+    display: flex;
+    direction: rtl;
+    /* text-align: unset; */
+    align-items: self-end;
+}
+
+.navicon a {
+    background: linear-gradient( 50deg, #fb3c00, #ffb800);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 900;
+    font-family: 'Shabnam';
+    font-size: 2rem;
+    margin: 6px 7px;
+    font-size: 3rem;
+}
+
+.collapsenavbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.collapsenavbar p {
+    font-size: 1.67rem;
+    font-family: "Shabnam"
+}
+
+.input-icon i {
+    position: absolute;
+    font-size: 1.9rem;
+}
+
+.input-icon {
+    max-width: 100%;
+}
+
+.icon {
+    padding: 10px;
+    min-width: 40px;
+}
+
+.bd-radius {
+    border-radius: 1rem;
+}
+
+.padding-0 {
+    padding: 0;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    border: none;
+    box-shadow: 1px 1px 1px 1px #e4dede;
+    border-radius: 3px;
+    font-size: 2rem;
+}
+
+.input-field::placeholder {
+    color: #b3b2b1;
+    font-family: "Parastoo";
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+
+.input-field:focus {
+    border: 3px solid #ffb30e !important;
+}
+
+.formitems {
+    display: flex;
+    align-items: center;
+}
+
+.flexfunction {
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btnnavbar {
+    font-size: 1.87rem;
+    font-family: "Tanha";
+    direction: rtl;
+    margin: 8px 6px;
+    background-color: #fff;
+    color: #ffb30e;
+    box-shadow: 0 0 1rem 0 rgb(255 179 14 / 30%) !important;
+    padding: 0.5rem 2.2rem;
+    border-radius: 0.2rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+    border: 1px solid transparent;
+    background-color: transparent;
+    line-height: 2;
+}
+
+.tabparagraph h1 {
+    color: #fef3f3;
+    font-family: 'Shabnam';
+    font-weight: 600;
+    font-size: 4.5rem;
+    width: 100%;
+    margin: 2rem 2rem;
+}
+
+.navtabs {
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px 2px #dad4d4;
+    width: 96%;
+    height: 100%;
+    padding: 0.5rem 1rem;
+}
+
+.tabparagraph p {
+    font-family: "Shabnam";
+    color: #000;
+    font-size: 2rem;
+    width: 63%;
+    margin: 3rem 2rem;
+}
+
+.nav-tabs>li {
+    float: right !important;
+    direction: rtl;
+}
+
+.input-group-append {
+    margin-top: 0 !important;
+}
+
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:focus,
+.nav-tabs>li.active>a:hover {
+    color: #f17228;
+    background-color: rgba(241, 114, 40, 0.15);
+    border-color: rgba(0, 0, 0, 0);
+}
+
+.nav-tabs>li {
+    color: #000;
+    font-family: "Parastoo";
+    font-weight: 900;
+    font-size: 1.6rem;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: row;
+}
+
+.tabbutton {
+    margin-top: 0px;
+    font-size: 1.7rem;
+    font-family: "Parastoo";
+    width: 90%;
+    height: 80%;
+    font-weight: 700;
+    color: #fff;
+    background-color: #e86c23;
+    border: 1px solid #cd6122;
+}
+
+.form-control {
+    width: 67%;
+    height: 7vh;
+    padding: 0.5rem 2.2rem;
+    font-family: "Parastoo";
+    font-weight: 900;
+    border: 1px solid #e0e0e0;
+    margin: 0 0.5rem;
+    color: #e86c23;
+}
+
+.image-banner {
+    display: block;
+}
+
+.form-control::placeholder {
+    color: rgb(170, 165, 165);
+}
+
+.form-control:focus {
+    border: 1px solid #ffb30e !important;
+    box-shadow: 0 !important;
+}
+
+.nav-tabs>li a {
+    color: #000;
+}
+
+.card-actions {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.badge-foodwagon {
+    border-radius: 0 1.25rem 0 1rem;
+    border-bottom-left-radius: 0;
+    background-color: #ffb30e;
+    padding: 2rem 2rem;
+}
+
+.flexitems {
+    display: flex;
+    align-items: center;
+}
+
+.blockpart {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.9rem;
+    margin-left: 6px;
+}
+
+.discointlinks {
+    position: absolute;
+}
+
+.discointlinks h5 {
+    font-size: 3rem;
+    font-family: "Tanha";
+    margin-top: 15px;
+    color: #000;
+    text-decoration: none;
+    font-weight: 800;
+    margin-left: 80px;
+    margin-bottom: 15px;
+}
+
+.discointlinks span {
+    font-size: 1.5rem;
+    font-family: "Tanha";
+    background-color: #fdeadf !important;
+    color: #f17228;
+    font-weight: 800;
+    margin-bottom: 15px;
+    border: 1px solid #fdeadf;
+    margin-top: 18px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.remaindays {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 5px;
+}
+
+.discointlinks a:hover {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.orders h1 {
+    text-align: center;
+    font-size: 3.5rem;
+    font-family: "Shabnam";
+    font-weight: 800;
+    color: #f17228;
+    font-style: none;
+}
+
+.orders h4 {
+    font-size: 2rem;
+    font-family: "Parastoo";
+    font-weight: 800;
+    color: #000;
+}
+
+.orders p {
+    font-size: 1.3rem;
+    font-family: "Tanha";
+    color: #000;
+    color: #424242;
+}
+
+.roworders {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+    flex-direction: row-reverse;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+#owl-carousel .owlorders h5 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    font-family: "Tanha";
+    color: #000;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#owl-carousel .owlorders span {
+    font-size: 1.8rem;
+    font-family: "Parastoo";
+    color: #ffb30e;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.card-body span {
+    font-size: 1.6rem;
+    font-weight: 800;
+    font-family: "Tanha";
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.btn-wl-slider {
+    font-family: "Tanha";
+    font-weight: 600;
+    background-color: #f17228;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.btn-wl-slider:hover {
+    color: #fffefe;
+    background-color: #cd6122;
+    border-color: #c15b20;
+}
+
+#owl-carousel .owl-theme .owl-dots .owl-dot span {
+    background-image: url(../img/fleshinverse.svg) !important;
+    display: inline-block !important;
+    width: 2.5rem !important;
+    height: 2.5rem !important;
+    background-repeat: no-repeat !important;
+    background-position: 50% !important;
+    background-size: 100% 100% !important;
+}
+
+#owl-carousel .owl-theme .owl-nav {
+    display: none;
+}
+
+#owl-carousel .owl-theme .owl-dots .owl-dot.active span {
+    background-image: url(../img/flesh.svg) !important;
+    display: inline-block !important;
+    width: 2.5rem !important;
+    height: 2.5rem !important;
+    background-repeat: no-repeat !important;
+    background-position: 50% !important;
+    background-size: 100% 100% !important;
+}
+
+.bestsandwiches h4 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    font-family: 'Parastoo';
+    color: #FFB30E;
+}
+
+.bestsandwiches p {
+    font-size: 2rem;
+    font-family: 'Shabnam';
+    color: #000;
+    width: 65%;
+}
+
+.bestsandwiches a {
+    font-size: 1.8rem;
+    font-family: Parastoo;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    text-align: center;
+    margin-top: 5 rem;
+    font-weight: bolder;
+    transition: 0.5s;
+}
+
+.bestsandwiches a:hover {
+    color: #000;
+    background-color: #ffb800;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.btn-order-color {
+    background-color: #ff9500;
+}
+
+.bestsandwiches span {
+    font-size: 3.5rem;
+    font-weight: 700;
+    font-family: 'Parastoo';
+    color: #000 !important;
+}
+
+.chicken {
+    font-size: 3.5rem;
+    font-weight: 700;
+    font-family: 'Parastoo';
+    color: rgb(219, 10, 10)!important;
+}
+
+.pitza {
+    color: rgb(238, 81, 8)!important;
+}
+
+.bgready {
+    background-image: url(../img/cta-two-bg.png);
+    background-image: url(../img/cta-two-bg.png);
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 5rem!important;
+    padding-top: 7rem!important;
+}
+
+.bgflex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bgflex h4 {
+    font-size: 4rem;
+    font-family: 'Tanha';
+    font-weight: 900;
+    color: #fff;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.bgflex a {
+    background-color: #fa0b0b;
+    width: 15%;
+    font-size: 1.7rem;
+    font-family: 'Tanha';
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-weight: 900;
+    transition: 0.5s;
+}
+
+.bgflex a:hover {
+    background-color: #f0c0c0;
+    font-family: 'Tanha';
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.discount {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.discount h2 {
+    font-size: 2.3rem;
+    background: linear-gradient( 50deg, #fb3c00, #ffb800);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 900;
+    font-family: 'Shabnam';
+    direction: rtl;
+    margin-right: 1rem;
+}
+
+.d-flex {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+}
+
+.discount {
+    background-color: #fff;
+    justify-content: center;
+    box-shadow: 0 0 3rem 0 rgb(255 179 14 / 30%) !important;
+    border-radius: 46px;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+.bg-holder {
+    background-image: url(../img/cta-one-bg.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.d-flex2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flexcenter {
+    display: flex;
+    justify-content: center;
+}
+
+.hr-vertical::before {
+    border-left: 2px solid #CFCFCF;
+    content: " ";
+    padding-top: 7rem;
+    text-align: center;
+    margin: 2px 2px;
+}
+
+.bgorange {
+    background-image: url(../img/cta-one-bg.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.app-text h1 {
+    font-family: 'Tanha';
+    font-weight: 900;
+    text-align: center;
+    font-size: 4.5rem;
+}
+
+.app-text p {
+    text-align: center;
+    font-family: 'Shabnam';
+    font-weight: 600;
+    color: #FFB30E;
+    font-size: 2rem;
+}
+
+.app-text {
+    text-align: center;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.slider-items {
+    text-align: center;
+    margin-top: 2 rem;
+    font-family: 'Tanha';
+    font-weight: 900;
+    font-size: 2.5rem
+}
+
+.searchfood {
+    font-family: 'Parastoo';
+    font-weight: 700;
+    color: #f20505;
+}
+
+.card-img-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    border-radius: calc(0.5rem - 1px);
+}
+
+.d-flex3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.fs-1 {
+    color: #F17228;
+    font-size: 2rem;
+    line-height: 3rem;
+}
+
+.bg-soft-danger {
+    background-color: #fdeadf;
+    width: 100%;
+    direction: ltr;
+}
+
+.fw-bold {
+    font-size: 2rem;
+    font-family: 'Shabnam';
+    font-weight: bold;
+}
+
+.ms-4 {
+    padding: 1rem;
+    background-color: #F17228;
+    margin: 2rem;
+}
+
+.fs-0 {
+    font-size: 1.8rem;
+    font-family: cursive;
+}
+
+.fs-i {
+    font-size: 1.9rem;
+}
+
+.me-1 {
+    color: #fff;
+    font-size: 2rem;
+    line-height: 3rem;
+    background-color: #FFB30E;
+}
+
+.bg-soft-danger2 {
+    background-color: #ebf5e2;
+    width: 100%;
+    direction: ltr;
+    padding: 1rem;
+}
+
+.fs-2 {
+    color: #79B93C;
+}
+
+.viewAll a {
+    background: #FFB30E;
+    font-family: 'Shabnam';
+    display: flex;
+    align-items: center;
+    font-size: 1.6rem;
+    font-weight: 900;
+    color: #fff;
+    transition: 0.5s;
+}
+
+.viewAll a:hover {
+    background: #ff5a0e;
+    color: rgb(15, 15, 15);
+    transition: 0.5s;
+}
+
+.viewAll {
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.discounth3 {
+    direction: rtl;
+    text-align: center;
+    font-family: 'Parastoo';
+    font-weight: 900;
+    font-size: 4rem;
+    color: #f23c05;
+    margin-bottom: 6rem;
+}
+
+.mb-md-4 {
+    font-family: "Parastoo";
+    font-size: 1rem;
+    font-weight: 900;
+    color: #fff;
+    padding: 0;
+}
+
+.text-200 {
+    font-size: 1.66rem;
+    font-family: "Shabnam";
+    color: #f5f5f5;
+    line-height: 2;
+    transition: 0.5s;
+    opacity: 0.8;
+}
+
+.text-white {
+    color: #FFFEFE;
+    font-size: 2.3333rem;
+    font-family: "Shabnam";
+    font-weight: 900;
+}
+
+.text-200:hover {
+    color: #e0f859;
+    text-decoration: none;
+}
+
+.col-auto button {
+    background: #FFB30E;
+    font-family: "Parastoo";
+    display: flex;
+    align-items: center;
+    font-size: 1.6rem;
+    font-weight: 900;
+    color: #fff;
+    transition: 0.5s;
+}
+
+.text-500 {
+    font-family: 'Shabnam';
+    font-size: 1.9rem;
+    color: #f5f5f5;
+}
+
+.h5lhlg {
+    font-size: 3rem;
+    font-family: 'Parastoo';
+    direction: rtl;
+    font-weight: 900;
+    width: auto;
+    display: block;
+}
+
+.mb-3 {
+    width: auto;
+    flex: 0 0 auto;
+}
+
+.justify-content-lg-between {
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    direction: rtl;
+}
+
+.col-lg-auto {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: auto;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+.justify-content-lg-between {
+    -webkit-box-pack: justify !important;
+    -ms-flex-pack: justify !important;
+    justify-content: space-between !important;
+}
+
+.Envelop {
+    position: absolute;
+    font-size: 1.8rem;
+    padding: 1rem 1.3rem;
+}
+
+.form-control2::placeholder {
+    padding-left: 1.9rem;
+    color: #fff;
+}
+
+.input-group-icon {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.form-control2 {
+    display: block;
+    width: 100%;
+    padding: 1rem 3.2rem;
+    font-size: 1.3rem;
+    background-color: #616161;
+    background-clip: padding-box;
+    border-radius: 0.5rem;
+    font-family: 'Shabnam';
+    border: none;
+}
+
+.ulInfo {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-subscribe {
+    background: #e6a415;
+    font-family: 'Shabnam';
+    display: flex;
+    align-items: center;
+    font-size: 1.4rem;
+    font-weight: 900;
+    color: #f5f5f5;
+    transition: 0.5s;
+    margin-right: 1rem;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-subscribe:hover {
+    background: #a9e420;
+    color: #000;
+}
+
+.owl-carousel .owl-dot,
+.owl-carousel .owl-nav .owl-next,
+.owl-carousel .owl-nav .owl-prev {
+    background-color: #e85656;
+    color: #fff;
+    border-radius: 70%;
+    font-weight: 900;
+    font-size: 2rem;
+    font-family: 'Parastoo';
+}
+
+.owl-prev span {
+    font-size: 3rem;
+    background-color: #FFB30E;
+    color: #fff;
+    font-weight: 800;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    padding: 5px 15px 5px 15px;
+    font-family: cursive;
+}
+
+.owl-dots {
+    display: none;
+}
+
+.owl-next span {
+    font-size: 3rem;
+    background-color: #FFB30E;
+    color: #fff;
+    font-weight: 800;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    padding: 5px 15px 5px 15px;
+    font-family: cursive;
+}
+
+.text-800 {
+    color: #616161;
+    font-weight: 900;
+    font-family: 'Shabnam';
+    direction: rtl;
+    font-size: 2rem;
+}
+
+@media only screen and (max-width: 360px) {
+    html {
+        overflow-x: hidden;
+    }
+    body {
+        height: 100%;
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+        overflow: hidden;
+    }
+    .collapsenavbar {
+        flex-direction: column-reverse;
+    }
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    iframe {
+        max-width: 100%;
+    }
+    .navbar-collapse {
+        overflow-x: hidden;
+    }
+    .input-field {
+        font-size: 1.5rem;
+        width: 93%;
+    }
+    .btnnavbar {
+        line-height: 1.5;
+        font-size: 2rem;
+    }
+    .navicon {
+        display: flex;
+        direction: ltr;
+        text-align: unset;
+        align-items: center;
+        justify-content: left;
+    }
+    .navicon a {
+        background: linear-gradient( 50deg, #fb3c00, #ffb800);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-weight: 900;
+        font-family: 'Parastoo';
+        font-size: 2.5rem;
+        margin: 1.1rem 0.3rem;
+    }
+    .navbar-brand {
+        padding: 1rem 0.5rem;
+    }
+    .image-banner img {
+        width: 100%;
+        margin-top: 5rem;
+    }
+    .margin-20 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .input-group {
+        display: flex;
+        flex-direction: column;
+        justify-content: normal;
+    }
+    .tabbutton {
+        font-size: 1.5rem;
+        width: 100%;
+        height: 100%;
+        font-weight: 800;
+    }
+    .form-control {
+        margin: 0;
+    }
+    .navtabs {
+        border-radius: 10 px;
+        box-shadow: 0px 2px 4px 2px #dad4d4;
+        width: 100%;
+        height: 100%;
+        padding: 0.111111rem 2.2rem;
+        direction: ltr!important;
+    }
+    .padding-8 {
+        padding-top: 0!important;
+        padding-bottom: 0!important;
+    }
+    .tabparagraph {
+        margin-top: 7rem;
+    }
+    .discointlinks {
+        display: flex;
+        flex-direction: column;
+        align-items: baseline;
+        justify-content: left;
+    }
+    .discointlinks h5 {
+        font-size: 3rem;
+        font-family: "Tanha";
+        margin-top: 15px;
+        color: #000;
+        text-decoration: none;
+        font-weight: 800;
+        margin-bottom: 15px;
+        direction: ltr;
+        display: flex;
+    }
+    .mediascreenfn {
+        margin-bottom: 12rem;
+    }
+    .margin-media {
+        margin-top: 3rem!important;
+    }
+    .margin-5media {
+        margin-top: 5rem;
+        margin-bottom: 3rem;
+    }
+    .roworders {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        flex-direction: column-reverse;
+    }
+    .orders h1 {
+        margin-top: 5rem!important;
+        margin-bottom: 0.5rem!important;
+    }
+    .justify-content-lg-between {
+        display: flex;
+        width: auto;
+        direction: rtl;
+        margin-bottom: 3rem;
+        flex-direction: column;
+    }
+    .discount {
+        flex-direction: column;
+    }
+    .hr-vertical::before {
+        display: none;
+    }
+    .flex-center {
+        margin-bottom: 3rem;
+    }
+    .app-text p {
+        color: #ffffff;
+        font-size: 2rem;
+    }
+    .mediamt {
+        margin-bottom: 6rem;
+    }
+    .margin-5 {
+        margin-top: 5rem;
+    }
+    .bgflex a {
+        width: 55%;
+    }
+    .sandwich-body {
+        padding: 0rem 0.5rem;
+    }
+    .border-radius-top-left {
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+    .border-bottom-radius {
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+    .sandwich-body2 {
+        padding: 0rem 0.5rem;
+    }
+    .border-radius-top-left2 {
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+    .border-bottom-radius2 {
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+    .margin-50 {
+        margin-top: 4rem;
+    }
+    .discointlinks {
+        position: absolute;
+        right: 0;
+        padding: -1rem;
+        margin-right: 3rem;
+    }
+    .discointlinks span {
+        font-family: 'Shabnam';
+        padding-left: 2rem;
+        padding-right: 2rem;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        margin: 0;
+    }
+    .margin-4 {
+        margin-bottom: 4rem;
+    }
+    .bgflex h4 {
+        font-size: 3rem;
+    }
+    .ulInfo {
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: flex-start;
+        margin-right: 3rem;
+    }
+    .btn-ready {
+        margin-right: 3rem;
+    }
+    .mediasecton {
+        margin-right: 2rem;
+    }
+    .text-500 {
+        font-size: 1.5rem;
+        color: #f5f5f5;
+    }
+    .bestsandwiches a {
+        margin-right: 0;
+    }
+    .search-food {
+        display: flex;
+        justify-content: space-between;
+        align-items: end;
+        flex-direction: row-reverse;
+        margin-bottom: 5rem;
+    }
+}
